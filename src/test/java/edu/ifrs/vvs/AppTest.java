@@ -26,7 +26,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
  */
 class AppTest {
     /**
-     * Rigorous Test.
+     * Rigorous Test 2.
      */
     @Test
     void testApp() {
